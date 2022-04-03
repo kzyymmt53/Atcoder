@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/divisor_enumeration_013/target/debug/divisor_enumeration_013: /Users/yamamotok96/AtCoder/algorithm_math_book/divisor_enumeration_013/src/main.rs

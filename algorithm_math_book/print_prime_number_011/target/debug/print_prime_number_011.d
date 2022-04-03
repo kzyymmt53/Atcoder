@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/print_prime_number_011/target/debug/print_prime_number_011: /Users/yamamotok96/AtCoder/algorithm_math_book/print_prime_number_011/src/main.rs

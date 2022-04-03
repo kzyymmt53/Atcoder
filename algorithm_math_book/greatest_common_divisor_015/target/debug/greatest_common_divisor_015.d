@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/greatest_common_divisor_015/target/debug/greatest_common_divisor_015: /Users/yamamotok96/AtCoder/algorithm_math_book/greatest_common_divisor_015/src/main.rs

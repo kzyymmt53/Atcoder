@@ -1,0 +1,5 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/greatest_common_divisor_of_n_integers_016/target/debug/deps/greatest_common_divisor_of_n_integers_016-52cc7945b7810403: src/main.rs
+
+/Users/yamamotok96/AtCoder/algorithm_math_book/greatest_common_divisor_of_n_integers_016/target/debug/deps/greatest_common_divisor_of_n_integers_016-52cc7945b7810403.d: src/main.rs
+
+src/main.rs:

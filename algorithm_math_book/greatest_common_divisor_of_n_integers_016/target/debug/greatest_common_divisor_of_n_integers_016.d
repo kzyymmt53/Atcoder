@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/greatest_common_divisor_of_n_integers_016/target/debug/greatest_common_divisor_of_n_integers_016: /Users/yamamotok96/AtCoder/algorithm_math_book/greatest_common_divisor_of_n_integers_016/src/main.rs

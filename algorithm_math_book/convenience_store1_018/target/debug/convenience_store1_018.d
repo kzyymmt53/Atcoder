@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/convenience_store1_018/target/debug/convenience_store1_018: /Users/yamamotok96/AtCoder/algorithm_math_book/convenience_store1_018/src/main.rs

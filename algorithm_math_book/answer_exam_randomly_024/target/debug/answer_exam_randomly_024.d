@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/answer_exam_randomly_024/target/debug/answer_exam_randomly_024: /Users/yamamotok96/AtCoder/algorithm_math_book/answer_exam_randomly_024/src/main.rs

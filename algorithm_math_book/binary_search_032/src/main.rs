@@ -26,29 +26,31 @@ fn main() {
 }
 
 fn binary_search(r: i64, l: i64, a: Vec<i64>, x: i64) -> bool {
-    if r - l < 0 {
-        return false;
-    }
 
-    let m = ((r + l) / 2) as usize;
+     if r - l < 0 {
+         return false;
+     }
 
-    
-    if a[m] == x {
-        return true;
-    }
+     let m = ((r + l) / 2) as usize;
 
-    let mut l2: i64 = l;
-    let mut r2: i64 = r;
-    if a[m] > x {
-        r2 = m as i64 - 1;
-    }else {
-        l2 = m as i64 + 1;
-    }
+     if a[m] == x {
+         return true;
+     }
 
-    if binary_search(r2, l2, a, x) {
-        return true;
-    }else{
-        return false;
-    }
+     let mut l2: i64 = l;
+     let mut r2: i64 = r;
+
+     if a[m] > x { 
+         r2 = m as i64 - 1;
+     }else {
+         l2 = m as i64 + 1;
+     }
+
+     if binary_search(r2, l2, a, x) {
+         return true;
+     }else{
+         return false;
+     }
 }
+
 

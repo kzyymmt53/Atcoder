@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/axis_parallel_rectangle_070/target/debug/axis_parallel_rectangle_070: /Users/yamamotok96/AtCoder/algorithm_math_book/axis_parallel_rectangle_070/src/main.rs

@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/sum_of_difference_easy_074/target/debug/sum_of_difference_easy_074: /Users/yamamotok96/AtCoder/algorithm_math_book/sum_of_difference_easy_074/src/main.rs

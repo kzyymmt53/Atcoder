@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/difference_optimization1_078/target/debug/difference_optimization1_078: /Users/yamamotok96/AtCoder/algorithm_math_book/difference_optimization1_078/src/main.rs

@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/we_used_to_sing_a_song_together_083/target/debug/we_used_to_sing_a_song_together_083: /Users/yamamotok96/AtCoder/algorithm_math_book/we_used_to_sing_a_song_together_083/src/main.rs

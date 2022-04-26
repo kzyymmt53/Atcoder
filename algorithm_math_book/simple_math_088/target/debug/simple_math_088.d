@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/simple_math_easy_087/simple_math_088/target/debug/simple_math_088: /Users/yamamotok96/AtCoder/algorithm_math_book/simple_math_easy_087/simple_math_088/src/main.rs

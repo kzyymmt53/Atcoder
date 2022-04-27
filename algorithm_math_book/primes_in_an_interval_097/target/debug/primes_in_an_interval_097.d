@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/primes_in_an_interval_097/target/debug/primes_in_an_interval_097: /Users/yamamotok96/AtCoder/algorithm_math_book/primes_in_an_interval_097/src/main.rs

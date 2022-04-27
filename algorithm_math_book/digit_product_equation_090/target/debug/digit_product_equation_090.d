@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/digit_product_equation_090/target/debug/digit_product_equation_090: /Users/yamamotok96/AtCoder/algorithm_math_book/digit_product_equation_090/src/main.rs

@@ -1,0 +1,1 @@
+/Users/yamamotok96/AtCoder/algorithm_math_book/beautiful_rectangle_092/target/debug/beautiful_rectangle_092: /Users/yamamotok96/AtCoder/algorithm_math_book/beautiful_rectangle_092/src/main.rs

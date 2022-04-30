@@ -13,6 +13,7 @@ fn main() {
         v[0] = false;
     }
     let mut count = 0;
+    //LからRまでの素数でないものを確認
     for i in 2..=r {
         let min_val = (l + i - 1) / i * i;
         for j in (min_val..=r).step_by(i) {

@@ -12,7 +12,7 @@ fn main() {
     if l == 1 {
         v[0] = false;
     }
-    let mut ans = 0;
+    let mut count = 0;
     //LからRまでの素数でないものを確認
     for i in 2..=r {
         let min_val = (l + i - 1) / i * i;
@@ -32,11 +32,11 @@ fn main() {
 
     for i in v {
         if i {
-            ans += 1;
+            count += 1;
         }
     }
 
-    println!("{}", ans);
+    println!("{}", count);
 
 }
 
